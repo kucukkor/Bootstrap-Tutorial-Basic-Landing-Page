@@ -1,0 +1,46 @@
+#hero {
+    background-image:linear-gradient(rgb(91, 117, 153) , rgba(55, 66, 82, 0.7)), url("deniz.jpeg");
+    background-size: cover;
+    .container1 {
+        height: 75vh;
+    }
+    .container2 {
+        height: 50vh;
+    }
+
+}
+
+.generic{
+    padding: 7rem 0;
+}
+
+.aboutt {
+    min-height: 50vh;
+}
+
+.about-w {
+    min-height: 14rem;
+}
+.cp {
+ padding: 0 55px;
+}
+.cp2{
+    padding: 0 150px;
+}
+.cov {
+    background-size: cover;
+}
+
+@media only screen and (min-width: 767px) and (max-width: 992px){
+    .cwidth {
+        width: 70%;
+    }
+
+}
+
+.mheight {
+    min-height: 20rem;
+}
+
+
+
